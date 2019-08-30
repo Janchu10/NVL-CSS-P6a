@@ -1,0 +1,46 @@
+.centro{
+    alignment:center;
+}
+
+#talco{
+    background-color: #FFFFFF;
+}
+
+#yeso{
+    background-color: #E6E6E6;
+}
+
+#calcita{
+    background-color: #CCCCCC;
+}
+#fluorita{
+    background-color: #B3B3B3;
+}
+#apatito{
+    background-color: #999999;
+}
+
+#ortosa{
+    background-color: #808080;
+}
+#cuarzo{
+    background-color: #666666;
+}
+#topacio{
+    background-color: #4C4C4C
+}
+#corindon{
+    background-color: #333333;
+}
+#diamante{
+    background-color: #191919;
+}
+td span{
+    color: white;
+}
+.tabla{
+    border:2px solid black;
+    border-collapse: separate;
+}
+tr{border:2px solid black}
+td{border:2px solid black}
